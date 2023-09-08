@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assCalculator</string>
+    <string name="strAddition">Addition</string>
+    <string name="strSubtraction">Subtraction</string>
+    <string name="strMultiplication">Multiplication</string>
+    <string name="strDivision">Division</string>
+    <string name="strDefaultValue">0</string>
+</resources>
